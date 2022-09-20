@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body>div {
+  margin: 3em 10%;
+}
+
+button,
+input {
+  display: block;
+  margin: 3em;
+  padding: .5em 1em;
+}
+
+/* --------Övningen börjar här!--------
+    Prova på olika kombinationer av css egenskaper för följande pseudoklasser
+    Du kan exempelvis prova
+    1) Ändra bakgrundsfärger
+    2) Sätta ny padding eller/och margin
+    3) Ändra border radius
+    Känn dig fri att utfroska ändra egenskaper och andra pseudoklasser
+*/
+
+.crazy-css:hover {
+  /* Reagerar på om musen "flyter" över elementet (dras över) */
+}
+
+.pressed-down:active {
+  /* Triggas bland annat när en knapp trycks ner */
+}
+
+.colorful-typing:focus {
+  /* Gäller då ett viss element har fokus, exempelvis om du skriver i ett input fält */
+}
