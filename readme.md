@@ -11,4 +11,5 @@
 
 ## Övningar pseudo w3c school
 Ifall du vill fokusera mer på enskilda klasser/element så gör tillochmed Pseudo-elements
-1. https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes1
+Material - https://www.w3schools.com/css/css_pseudo_classes.asp
+Övningar - ttps://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes1
